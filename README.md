@@ -6,6 +6,12 @@ It looks nice, so _fork it_ what can I say xD
   Because I cannot use Apple's SFUI Pro Display due to Apple's license
 </details>
 
+## Installation prerequisites
+```sh
+#!/bin/bash
+sudo apt-get install fontmake -y 
+pip3 install gftools
+```
 
 ## Basic Font Information
 Sen is a Unicode typeface family that supports all languages that
