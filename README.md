@@ -14,8 +14,8 @@ scripts.
 
 
 ## Designer Information
-Sen was designed by Kosal Sen, Philatype.
-Website: https://philatype.com
-E-mail: holla@philatype.com
-Twitter: @philatype
+ - Sen was designed by Kosal Sen, Philatype.
+ - Website: https://philatype.com
+ - E-mail: holla@philatype.com
+ - Twitter: @philatype
 
